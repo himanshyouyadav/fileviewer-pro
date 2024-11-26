@@ -1,5 +1,5 @@
 title = "FileViewer Pro"
-baseurl = "http://localhost/"
+baseurl = ""
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
