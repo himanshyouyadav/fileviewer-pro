@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting Started on FileViewer Pro</title>
+    <link>http://localhost:1313/docs/getting-started/</link>
+    <description>Recent content in Getting Started on FileViewer Pro</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Fri, 24 Nov 2023 10:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation</title>
+      <link>http://localhost:1313/docs/getting-started/installation/</link>
+      <pubDate>Fri, 24 Nov 2023 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/docs/getting-started/installation/</guid>
+      <description>&lt;p&gt;Installing &lt;strong&gt;FileViewer Pro&lt;/strong&gt; is quick and straightforward. Follow these steps:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Visit Google Workspace Marketplace:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Open your web browser and navigate to the &lt;a href=&#34;https://workspace.google.com/marketplace&#34;&gt;Google Workspace Marketplace&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Search for FileViewer Pro:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Permissions</title>
+      <link>http://localhost:1313/docs/getting-started/permissions/</link>
+      <pubDate>Fri, 24 Nov 2023 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/docs/getting-started/permissions/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;FileViewer Pro&lt;/strong&gt; requires specific permissions to access and display files within Google Sheets. Here&amp;rsquo;s a breakdown of what permissions are needed and why:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

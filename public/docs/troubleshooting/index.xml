@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Troubleshooting on FileViewer Pro</title>
+    <link>http://localhost:1313/docs/troubleshooting/</link>
+    <description>Recent content in Troubleshooting on FileViewer Pro</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Tue, 26 Nov 2024 17:19:07 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Common Issues</title>
+      <link>http://localhost:1313/docs/troubleshooting/common-issues/</link>
+      <pubDate>Tue, 26 Nov 2024 17:19:07 +0200</pubDate>
+      <guid>http://localhost:1313/docs/troubleshooting/common-issues/</guid>
+      <description>&lt;p&gt;If you encounter any issues while using &lt;strong&gt;FileViewer Pro&lt;/strong&gt;, refer to the troubleshooting tips below to resolve them quickly.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-permission-errors&#34;&gt;1. &lt;strong&gt;Permission Errors&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Problem:&lt;/strong&gt; FileViewer Pro requests permissions but shows an error.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Solution:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ensure you’ve granted all required permissions during the setup process.&lt;/li&gt;&#xA;&lt;li&gt;Double-check your Google Account settings to verify access is enabled for third-party add-ons.&lt;/li&gt;&#xA;&lt;li&gt;If permissions were denied previously, uninstall and reinstall the add-on from the Google Workspace Marketplace.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-link-issues&#34;&gt;2. &lt;strong&gt;Link Issues&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Problem:&lt;/strong&gt; The tool cannot open links or displays a “file not accessible” message.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Solution:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Verify that the link is publicly accessible (i.e., the file is shared with &amp;ldquo;Anyone with the link&amp;rdquo;).&lt;/li&gt;&#xA;&lt;li&gt;Ensure the URL is valid and doesn’t have extra characters or errors.&lt;/li&gt;&#xA;&lt;li&gt;Supported links include those from &lt;strong&gt;YouTube&lt;/strong&gt; and files hosted without CORS restrictions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;By following these steps, most common issues can be resolved easily. If the problem persists, contact our support team for assistance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FAQs</title>
+      <link>http://localhost:1313/docs/troubleshooting/faqs/</link>
+      <pubDate>Tue, 26 Nov 2024 17:19:07 +0200</pubDate>
+      <guid>http://localhost:1313/docs/troubleshooting/faqs/</guid>
+      <description>&lt;p&gt;Here are answers to frequently asked questions about &lt;strong&gt;FileViewer Pro&lt;/strong&gt; to help you use the tool effectively.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-can-i-edit-files-within-the-modal-window&#34;&gt;1. &lt;strong&gt;Can I edit files within the modal window?&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Answer:&lt;/strong&gt; No, the modal window is view-only. FileViewer Pro is designed for opening and viewing files, not for editing.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-is-my-data-stored-by-the-add-on&#34;&gt;2. &lt;strong&gt;Is my data stored by the add-on?&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Answer:&lt;/strong&gt; No, FileViewer Pro does not store any of your data. Files are rendered temporarily and are not saved on any external servers.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;3-which-platforms-are-supported-for-opening-links&#34;&gt;3. &lt;strong&gt;Which platforms are supported for opening links?&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Answer:&lt;/strong&gt; The tool currently supports files hosted on &lt;strong&gt;Google Drive&lt;/strong&gt; and public URLs, including &lt;strong&gt;YouTube&lt;/strong&gt; links.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;4-what-file-formats-are-supported&#34;&gt;4. &lt;strong&gt;What file formats are supported?&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Answer:&lt;/strong&gt; FileViewer Pro supports various file formats, including:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Images: JPG, PNG, GIF&lt;/li&gt;&#xA;&lt;li&gt;Audio: MP3, WAV, AAC, and more&lt;/li&gt;&#xA;&lt;li&gt;Video: MP4, AVI, MOV, and more&lt;/li&gt;&#xA;&lt;li&gt;Documents: PDF&lt;/li&gt;&#xA;&lt;li&gt;For a complete list, refer to the &lt;a href=&#34;http://localhost:1313/docs/how-to-use/supported-formats/&#34;&gt;Supported Formats&lt;/a&gt; section.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;For more information or unresolved questions, visit our &lt;a href=&#34;../installation&#34;&gt;documentation homepage&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
