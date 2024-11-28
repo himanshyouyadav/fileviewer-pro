@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>How To Use on FileViewer Pro</title>
-    <link>http://localhost:1313/docs/how-to-use/</link>
+    <link>//localhost:1313/docs/how-to-use/</link>
     <description>Recent content in How To Use on FileViewer Pro</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
     <lastBuildDate>Tue, 26 Nov 2024 17:19:07 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/docs/how-to-use/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/docs/how-to-use/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Launching the Add-On</title>
-      <link>http://localhost:1313/docs/how-to-use/launching-the-add-on/</link>
+      <link>//localhost:1313/docs/how-to-use/launching-the-add-on/</link>
       <pubDate>Tue, 26 Nov 2024 17:19:07 +0200</pubDate>
-      <guid>http://localhost:1313/docs/how-to-use/launching-the-add-on/</guid>
+      <guid>//localhost:1313/docs/how-to-use/launching-the-add-on/</guid>
       <description>&lt;p&gt;To use &lt;strong&gt;FileViewer Pro&lt;/strong&gt; in Google Sheets, follow these steps to launch the add-on and access its features.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;steps-to-launch-the-add-on&#34;&gt;Steps to Launch the Add-On&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Open a Google Sheet:&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Supported Formats</title>
-      <link>http://localhost:1313/docs/how-to-use/supported-formats/</link>
+      <link>//localhost:1313/docs/how-to-use/supported-formats/</link>
       <pubDate>Tue, 26 Nov 2024 17:19:07 +0200</pubDate>
-      <guid>http://localhost:1313/docs/how-to-use/supported-formats/</guid>
+      <guid>//localhost:1313/docs/how-to-use/supported-formats/</guid>
       <description>&lt;p&gt;FileViewer Pro allows users to view a wide variety of file types directly within Google Sheets. Below are the supported file formats and platforms.&lt;/p&gt;</description>
     </item>
   </channel>

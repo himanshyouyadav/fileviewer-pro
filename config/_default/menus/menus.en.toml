@@ -70,3 +70,9 @@
    name = "Terms and Condition"
    url = "/termsandcondition/"
    weight = 20
+
+[[footer]]
+   name = "Contact Us"
+   url = "/contact-us/"
+   weight = 10
+

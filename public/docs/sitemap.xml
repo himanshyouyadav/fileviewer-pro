@@ -2,57 +2,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/docs/getting-started/</loc>
+      <loc>//localhost:1313/docs/getting-started/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/docs/how-to-use/</loc>
+      <loc>//localhost:1313/docs/how-to-use/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/docs/troubleshooting/</loc>
+      <loc>//localhost:1313/docs/troubleshooting/</loc>
       <lastmod>2023-09-07T16:06:50+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://localhost:1313/docs/getting-started/installation/</loc>
+        <loc>//localhost:1313/docs/getting-started/installation/</loc>
         <lastmod>2023-11-24T10:00:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/getting-started/permissions/</loc>
+        <loc>//localhost:1313/docs/getting-started/permissions/</loc>
         <lastmod>2023-11-24T10:00:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/how-to-use/launching-the-add-on/</loc>
+        <loc>//localhost:1313/docs/how-to-use/launching-the-add-on/</loc>
         <lastmod>2024-11-26T17:19:07+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/how-to-use/supported-formats/</loc>
+        <loc>//localhost:1313/docs/how-to-use/supported-formats/</loc>
         <lastmod>2024-11-26T17:19:07+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/troubleshooting/common-issues/</loc>
+        <loc>//localhost:1313/docs/troubleshooting/common-issues/</loc>
         <lastmod>2024-11-26T17:19:07+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/docs/troubleshooting/faqs/</loc>
+        <loc>//localhost:1313/docs/troubleshooting/faqs/</loc>
         <lastmod>2024-11-26T17:19:07+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
